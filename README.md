@@ -1,9 +1,9 @@
 # Motion-Prediction-of-Beating-Heart-Using-Spatio-Temporal-LSTM
-These code for the paper "Motion Prediction of Beating Heart Using Spatio-Temporal LSTM", see the [paper](wait to push link)
+Code for the paper "Motion Prediction of Beating Heart Using Spatio-Temporal LSTM". See the [paper](wait to push link)
 
 `cyclePredictWithRNN` works for predicting the result of next time based on trained network.
 
-`LSTM_Prediction` is used to input train and test data, setup hyperparameters of LSTM, record the error.
+`LSTM_Prediction` is used to input train and test data, setup hyperparameters of LSTM, and record the error.
 
 `run_PredictionTests` is the entrence of our task , similar to a main function. All function above are called by it.
 
