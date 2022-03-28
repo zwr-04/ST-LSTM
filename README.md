@@ -7,7 +7,15 @@ Code for the paper "Motion Prediction of Beating Heart Using Spatio-Temporal LST
 
 `run_PredictionTests` is the entrence of our task , similar to a main function. All function above are called by it.
 
-If you use the code, please cite our work @article{ title={ Motion-Prediction-of-Beating-Heart-Using-Spatio-Temporal-LSTM }, author={Zhang, Wanruo; Yang, Bo;
-Yao, Guan; Zheng, Wenfeng; Liu, Chao;}, year={2022}; Publisher: {IEEE Signal Processing Letters} }
-
-If you have any question about the code, please contact with the author, email: yaoguan@std.uestc.edu.cn.
+You can see more details in our code. If you want to cite our data or code for your research, please cite our paper in format：
+```
+@ARTICLE{9721087,  
+author={Zhang, Wanruo and Yao, Guan and Yang, Bo and Zheng, Wenfeng and Liu, Chao},  
+journal={IEEE Signal Processing Letters},  
+title={Motion Prediction of Beating Heart Using Spatio-Temporal LSTM},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-1},  
+doi={10.1109/LSP.2022.3154317}}
+```
