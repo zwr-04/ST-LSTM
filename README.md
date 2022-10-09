@@ -1,5 +1,5 @@
 # Motion-Prediction-of-Beating-Heart-Using-Spatio-Temporal-LSTM
-Code for the paper "Motion Prediction of Beating Heart Using Spatio-Temporal LSTM". See the [paper](wait to push link)
+Code for the paper "Motion Prediction of Beating Heart Using Spatio-Temporal LSTM". See the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721087)
 
 `cyclePredictWithRNN` works for predicting the result of next time based on trained network.
 
@@ -14,8 +14,8 @@ author={Zhang, Wanruo and Yao, Guan and Yang, Bo and Zheng, Wenfeng and Liu, Cha
 journal={IEEE Signal Processing Letters},  
 title={Motion Prediction of Beating Heart Using Spatio-Temporal LSTM},   
 year={2022},  
-volume={},  
+volume={29},  
 number={},  
-pages={1-1},  
+pages={787-791},  
 doi={10.1109/LSP.2022.3154317}}
 ```
